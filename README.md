@@ -1,2 +1,2 @@
 # dwm
-Fork of awesome work w0ng dwm configs
+Fork of w0ng for dwm configs
